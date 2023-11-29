@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/talles/Documentos/UESC/Network/demo/.metadata/.plugins/org.eclipse.jdt.core
+3525260285.index
+388232825.index
+1865797976.index
